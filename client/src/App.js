@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Testing Plantain Palace updates github</h1>
+      <h1>Plantain Palace commit test 4</h1>
     </div>
   );
 }
